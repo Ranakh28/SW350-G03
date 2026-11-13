@@ -1,5 +1,4 @@
 # SW350 Group 3: Pilgrim disorientation simulation and machine learning experiment
-# Code only, extracted from SW350_G3_Phase3_Pilgrim_Simulation.ipynb
 # All data are synthetic. Code generated with the assistance of Claude (Anthropic) and executed by the team in Google Colab.
 # Run in Google Colab (or Python 3 with numpy, pandas, scikit-learn, matplotlib): python SW350_G3_code.py
 
